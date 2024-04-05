@@ -3,7 +3,7 @@
 This project leverages Docker Desktop along with the `nginx:alpine` image as a means to illustrate a simple, yet effective way to teach and learn Kubernetes. It is intended to offer a hands-on experience from deployment to service monitoring and handling rollbacks.
 
 ```bash
-docker pull https://github.com/pooyanazad/KubernetesLearning.git
+git clone https://github.com/pooyanazad/KubernetesLearning.git
 ```
 
 ## Step 1: Deployment
