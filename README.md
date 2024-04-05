@@ -47,7 +47,7 @@ kubectl get svc -o wide
 
 You can access your application by typing `IP:nodeport` into your browser's address bar. The specific port can be found as indicated in the following image placeholder:
 
-`<image>`
+![Service Deployment](https://github.com/pooyanazad/KubernetesLearning/blob/main/getSVC.png "Service Deployment Example")
 
 ## Step 2: Rollback
 
